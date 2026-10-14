@@ -1,24 +1,25 @@
-Lab: Applying the Open-Closed Principle in C#
+# Lab: Applying the Open-Closed Principle in C#
 
-Team / Name: your name here
+**Student Name:** _your name here_
 
-OCP Violation
+## OCP Violation
+
 <!-- Complete this section BEFORE you start refactoring. -->
 
-Where is the violation? (class and method)
+**Where is the violation?** (class and method)
 
-Your answer
+_Your answer_
 
-Why does it violate OCP? (2–4 sentences: what must change every time a new payment method is added, and why is that a problem?)
+**Why does it violate OCP?** (2–4 sentences: what must change every time a new payment method is added, and why is that a problem?)
 
-Your answer
+_Your answer_
 
-Refactored Design
+## Refactored Design
 
-How does your refactoring fix the violation? (2–4 sentences: name your interface and classes, and explain what stays closed and what is open for extension.)
+**How does your refactoring fix the violation?** (2–4 sentences: name your interface and classes, and explain what stays closed and what is open for extension.)
 
-Your answer
+_Your answer_
 
-Proof of extension: Which file(s) did you add for CryptoPayment, and which existing classes did you have to modify?
+**Proof of extension:** Which file(s) did you add for `CryptoPayment`, and which existing classes did you have to modify?
 
-Your answer
+_Your answer_
